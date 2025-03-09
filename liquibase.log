@@ -1,0 +1,67 @@
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202503091400.sql
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202503091405.sql
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202503091412.sql
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202503091415.sql
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Creating database history table with name: board.databasechangelog
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Reading from board.databasechangelog
+mar. 09, 2025 2:18:38 PM liquibase.lockservice
+INFO: Successfully acquired change log lock
+mar. 09, 2025 2:18:38 PM liquibase.command
+INFO: Using deploymentId: 1540718869
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Reading from board.databasechangelog
+Running Changeset: db/changelog/migrations/db.changelog-202503091400.sql::202503091400::linete
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Custom SQL executed
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: ChangeSet db/changelog/migrations/db.changelog-202503091400.sql::202503091400::linete ran successfully in 15ms
+Running Changeset: db/changelog/migrations/db.changelog-202503091405.sql::202503091405::linete
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Custom SQL executed
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: ChangeSet db/changelog/migrations/db.changelog-202503091405.sql::202503091405::linete ran successfully in 23ms
+Running Changeset: db/changelog/migrations/db.changelog-202503091412.sql::202503091412::linete
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Custom SQL executed
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: ChangeSet db/changelog/migrations/db.changelog-202503091412.sql::202503091412::linete ran successfully in 30ms
+Running Changeset: db/changelog/migrations/db.changelog-202503091415.sql::202503091415::linete
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: Custom SQL executed
+mar. 09, 2025 2:18:38 PM liquibase.changelog
+INFO: ChangeSet db/changelog/migrations/db.changelog-202503091415.sql::202503091415::linete ran successfully in 24ms
+
+UPDATE SUMMARY
+Run:                          4
+Previously run:               0
+Filtered out:                 0
+-------------------------------
+Total change sets:            4
+
+mar. 09, 2025 2:18:38 PM liquibase.util
+INFO: UPDATE SUMMARY
+mar. 09, 2025 2:18:38 PM liquibase.util
+INFO: Run:                          4
+mar. 09, 2025 2:18:38 PM liquibase.util
+INFO: Previously run:               0
+mar. 09, 2025 2:18:38 PM liquibase.util
+INFO: Filtered out:                 0
+mar. 09, 2025 2:18:38 PM liquibase.util
+INFO: -------------------------------
+mar. 09, 2025 2:18:38 PM liquibase.util
+INFO: Total change sets:            4
+mar. 09, 2025 2:18:38 PM liquibase.util
+INFO: Update summary generated
+mar. 09, 2025 2:18:38 PM liquibase.command
+INFO: Update command completed successfully.
+Liquibase: Update has been successful. Rows affected: 4
+mar. 09, 2025 2:18:38 PM liquibase.lockservice
+INFO: Successfully released change log lock
+mar. 09, 2025 2:18:38 PM liquibase.command
+INFO: Command execution complete
