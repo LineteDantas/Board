@@ -1,4 +1,4 @@
-Diagrama de Classe utilizada para o Projeto Board 
+Diagrama de Classe utilizada para o Projeto Board em Java para o Bootcamp da DIO - Decola Tech 2025
 ```mermaid
 erDiagram
     Board {
